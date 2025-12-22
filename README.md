@@ -1,10 +1,10 @@
 
 <h1>👑 Welcome to Visit My Profile 👑</h1>
 
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2068EE&height=120&section=header">
 <p>
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"></p>
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Caveat&color=A020F0&size=30&center=ture&lines=10years+Experience+...;Certified+in+over+50+Skills...;built+over+30+Projects..."></p>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Caveat&color=A020F0&size=30&center=ture&lines=7+ years+Experience+...;Certified+in+over+50+Skills...;built+over+30+Projects..."></p>
  <p>Full Stack Engineer with deep expertise across real-time communication systems, artificial intelligence, and decentralized technologies. 
  <br>Over 5 years of hands-on experience architecting and deploying scalable VoIP and WebRTC platforms, integrating AI for smart automation, and building secure, distributed blockchain applications.
  Let's bring your project to life with innovative solutions and technologies!</p>
@@ -84,3 +84,5 @@
   <img alt="github-snake" src="https://github.com/Vaibhav2002/Vaibhav2002/blob/output/github-contribution-grid-snake.svg" />
 </picture>
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2068EE&height=120&section=footer">
